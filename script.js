@@ -45,9 +45,9 @@ tryAgainBtn.onclick = () => {
     nextBtn.classList.remove('active');
 
 
-    let quescount= 0;
-    let quesno=1;
-    let userscore = 0;
+    quescount= 0;
+    quesno=1;
+    userscore = 0;
     ShowQues(quescount);
     quesCounter(quesno);
 
@@ -61,9 +61,9 @@ goHomeBtn.onclick = () => {
     nextBtn.classList.remove('active');
 
 
-    let quescount= 0;
-    let quesno=1;
-    let userscore = 0;
+     quescount= 0;
+     quesno=1;
+     userscore = 0;
     ShowQues(quescount);
     quesCounter(quesno);
 
