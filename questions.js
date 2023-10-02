@@ -3,7 +3,7 @@ let questions = [
     {
         no: 1,
         question: "Question 1",
-        ans:" C. Option c",
+        ans:"C. 1c",
         options:[
             "A. 1a ",
             "B.1b ",
@@ -14,8 +14,8 @@ let questions = [
     },
     {
         no: 2,
-        question: "",
-        ans:"",
+        question: "2",
+        ans:"B.2b ",
         options:[
             "A.2a ",
             "B.2b ",
@@ -26,8 +26,8 @@ let questions = [
     },
     {
         no: 3,
-        ques: "",
-        ans:"",
+        ques: "3",
+        ans:"D. 3d",
         options:[
 
             "A.3a ",
@@ -38,8 +38,8 @@ let questions = [
     },
     {
         no: 4,
-        question: "",
-        ans:"",
+        question: "4",
+        ans:"A.3a ",
         options:[
             "A.3a ",
         "B.3b ",
@@ -51,12 +51,12 @@ let questions = [
     },
     {
         no: 5,
-        ques: "",
-        ans:"",
+        ques: "5",
+        ans:"C. 5c",
         options:[
             "A.4a ",
             "B.4b ",
-            "C. c",
+            "C. 5c",
             "D. 2d"
 
         ]
